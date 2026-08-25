@@ -15,14 +15,14 @@ const projects = [
     live: "https://fashion-mart-gilt.vercel.app/",
   },
   {
-    title: "Merida Food",
-    image: "/images/merida-food.png",
-    category: "Food Delivery",
+    title: "Green Nest",
+    image: "/images/green-nest.png",
+    category: "Business",
     description:
-      "Online food ordering website with product filtering, cart functionality and secure checkout experience.",
+      "Modern poultry farming platform offering hen management, egg production live marketplace integration and poultry businesses.",
     technologies: ["React", "Node.js", "Express", "MySQL", "Tailwind"],
-    github: "https://github.com/abdulnoorwork-cell/Merida-Food",
-    live: "https://merida-food.vercel.app/",
+    github: "https://github.com/abdulnoorwork-cell/Hen-Farm",
+    live: "https://hen-farm.vercel.app/",
   },
   {
     title: "Insightful News",
