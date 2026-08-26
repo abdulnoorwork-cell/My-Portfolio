@@ -120,7 +120,7 @@ const About = () => {
                         initial="hidden"
                         whileInView="visible"
                         viewport={{ once: true, amount: 0.2 }}
-                        className="lg:grid hiddem sm:grid-cols-2 gap-5"
+                        className="max-lg:hidden grid sm:grid-cols-2 gap-5"
                     >
                         {/* Card 1 */}
                         <motion.div
